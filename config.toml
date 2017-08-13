@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Dora Duo"
+theme = "hugo-nuo"
+
+[params]
+  paginate = 5
